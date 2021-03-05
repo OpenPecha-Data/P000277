@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000277
+initial_creation_type: ebook
+source_metadata:
   title: ༈ འོད་གསལ་རྫོགས་པ་ཆེན་པོའི་ཁྲེགས་ཆོད་ལྟ་བའི་གླུ་དབྱངས་ས་ལམ་མ་ལུས་མྱུར་དུ་བགྲོད་པའི་རྩལ་ལྡན་མཁའ་ལྡིང་གཤོག་རླབས་ཞིས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
-  sku: SHE-SHAP-20
   layers:
   - book_title
   - author
   - yigchung
+  id: SHE-SHAP-20
 web_metadata:
   title:
     en: The Flight of the Garuda That Swiftly Crosses All Paths and Grounds:The Spiritual
